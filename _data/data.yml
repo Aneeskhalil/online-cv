@@ -241,22 +241,20 @@ publications:
     link: "#"
     authors: A. Muhammad, J. Qi, Anees Khalil, SMSH Rokib
     conference: Signal Processing in Biomedical Engineering | ICSPS | IEEE Xplore
-
 recommendations:
   title: Recommendations
   list:
-  - person: Assoc. Professor Qi JIn
-    email: |
-    jqi@uestc.edu.cn
+  - person: Assoc. Prof. Qi Jin
+    email: jqi@uestc.edu.cn
     role: Master's Supervisor, School of Information and Communication Engineering, UESTC
-    recommendation: I can confidently say that Anees stands among the Top students that I have worked with in recent years.
-
+    recommendation: |
+      I can confidently say that Anees stands among the Top students that I have worked with in recent years.
   - person: Dr. Hua Yan
     email: huayan@uestc.edu.cn
-    phone: -
-    role: Assoc Prof at School of Computer Science and 
-Engineering, UESTC
-    recommendation: | Anees has always been an absolute joy to work with.
+    phone: 012 345 6789
+    role: Assoc Prof at School of Computer Science and Engineering, UESTC
+    recommendation: |
+      Anees has always been an absolute joy to work with.
 
 skills:
   title: Skills &amp; Proficiency
