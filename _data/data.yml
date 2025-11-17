@@ -54,7 +54,7 @@ career-profile:
   summary: |
     Experienced researcher with a Master's in Signal Information and Communication Engineering. Skilled in computer vision,
     machine learning, information technology, and signal processing. More than five years of experience in AI research,
-    IT instruction, and e-commerce platforms. Developed systems including YOLO-based facial recognition, IR-VIS image fusion,
+    IT instruction, and E-commerce platforms. Developed systems including YOLO-based facial recognition, Infrared -Visible image fusion,
     and deep learning models for medical imaging. Published in IEEE Xplore and recognized with awards for academic performance,
     research, and conference presentations.
 
@@ -62,7 +62,7 @@ education:
   title: Education
   info:
   - degree: Master of Signal Information and Communication Engineering (GPA 3.77/4.00)
-    university: University of Electronic Science and Technology of China (UESTC)
+    University: University of Electronic Science and Technology of China (UESTC)
     time: 2024 - 2026
     details: |
       Enrolled under the Chinese Government Scholarship (CSC).
@@ -71,7 +71,7 @@ education:
         - Work includes Enhancement, Fusion, and AI-based Image Processing
 
   - degree: Bachelor of Science in Computer Science
-    university: Virtual University of Pakistan
+    University: Virtual University of Pakistan
     time: 2018 - 2022
     details: |
       Completed with a thesis on YOLO-based facial recognition for age prediction.
@@ -246,7 +246,8 @@ recommendations:
   title: Recommendations
   list:
   - person: Assoc. Professor Qi JIn
-    email: jqi@uestc.edu.cn
+    email: |
+    jqi@uestc.edu.cn
     role: Master's Supervisor, School of Information and Communication Engineering, UESTC
     recommendation: I can confidently say that Anees stands among the Top students that I have worked with in recent years.
 
