@@ -247,15 +247,15 @@ recommendations:
   list:
   - person: Assoc. Professor Qi JIn
     email: jqi@uestc.edu.cn
-    role: Master's Supervisor
-    recommendation:
+    role: Master's Supervisor, School of Information and Communication Engineering, UESTC
+    recommendation: I can confidently say that Anees stands among the Top students that I have worked with in recent years.
 
   - person: Dr. Hua Yan
     email: huayan@uestc.edu.cn
     phone: -
     role: Assoc Prof at School of Computer Science and 
 Engineering, UESTC
-    recommendation: |
+    recommendation: | Anees has always been an absolute joy to work with.
 
 skills:
   title: Skills &amp; Proficiency
