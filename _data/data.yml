@@ -1,246 +1,249 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
-  position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+  position: right
+  about: True
+  education: True
 
-  # Profile information
   name: Anees Khalil
-  tagline: Artificial Intelligence/Machine Learning
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  tagline: Artificial Intelligence / Machine Learning
+  avatar: profile.png
 
-  # Sidebar links
   email: aneeskhalil1519@gmail.com
-  phone: 18740807430
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
+  phone: +8618740807430
+  timezone: Asia/Chongqing
+  citizenship: Pakistani
+  website: https://example.com/
+  linkedin: aneekhalil
+  xing: 
+  github: 
+  telegram:
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
+  bluesky: '@jekyllrb.bsky.social'
   twitter: '@jekyllrb'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  stack-overflow:
   codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  goodreads:
+  mastodon:
+  hackerrank:
+  leetcode:
+  pdf:
 
   languages:
     title: Languages
     info:
     - idiom: English
+      level: Professional
+    - idiom: Urdu
       level: Native
-
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
+    - idiom: Punjabi
+      level: Native
+    - idiom: Chinese
+      level: HSK3 (Learning)
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Food & Traveling
       link:
-
-
-    - item: Snowboarding
+    - item: Exploring New Tech
       link:
-
-
-    - item: Cooking
+    - item: Phone Photography & Vlogging
       link:
-
+    - item: Community Involvement & Culture Exchange
+      link:
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Experienced researcher with a Master's in Signal Information and Communication Engineering. Skilled in computer vision,
+    machine learning, information technology, and signal processing. More than five years of experience in AI research,
+    IT instruction, and e-commerce platforms. Developed systems including YOLO-based facial recognition, IR-VIS image fusion,
+    and deep learning models for medical imaging. Published in IEEE Xplore and recognized with awards for academic performance,
+    research, and conference presentations.
+
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Master of Signal Information and Communication Engineering (GPA 3.77/4.00)
+    university: University of Electronic Science and Technology of China (UESTC)
+    time: 2024 - 2026
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+      Enrolled under the Chinese Government Scholarship (CSC).
+      Major in Information and Communication Engineering.
+        - Research focused on Infrared and Visible Image Fusion
+        - Work includes Enhancement, Fusion, and AI-based Image Processing
+
+  - degree: Bachelor of Science in Computer Science
+    university: Virtual University of Pakistan
+    time: 2018 - 2022
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Completed with a thesis on YOLO-based facial recognition for age prediction.
+        - Applied Machine Learning, Data Processing, Custom Dataset Training
+        - Tools: Python, Darknet, Jupyter Notebook
+
+  - degree: Diploma of Associate Engineer in Computer Information Technology (DAE IT)
+    university: Govt. College of Technology Kamalia, Pakistan
+    time: 2015 - 2018
+    details: |
+      Graduated with Grade "A" (Score 2469/3150).
+        - Final Project: Arduino-based Controllable Surveillance Robot with IP Camera
+        - Strong foundation in hardware, networking, operating systems, and software applications
 
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Jr. Instructor (Computer Information Technology)
+    time: 2019 - 2022
+    company: Government College of Technology Kamalia, Pakistan
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      Three years of teaching and administrative experience in the IT department.
+        - Taught C Programming, Visual Basic OOP, and Computer Networks
+        - Managed computer labs and networking systems
+        - Supported academic and administrative operations
+
+  - role: Big-Commerce Assistant Manager
+    time: 2019 - 2022
+    company: ITSKINS LTD (Remote, France)
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+      Led e-commerce operations for product listing, backend customization, and platform management.
+        - Managed B2B and B2C product workflows
+        - Customized website layout using WordPress
+        - Trained new team members and generated detailed reports
+
+  - role: Amazon Virtual Assistant
+    time: 2021 - 2023
+    company: ITSKINS LTD (Remote, France)
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Supported the Amazon product management team with listings and reporting.
+        - Imported and processed product data for Amazon Seller systems
+        - Designed A+ graphics and visuals
+        - Tracked order and inventory reports
+
+  - role: Graphic Designer and Social Media (Part-time)
+    time: 2022 - 2023
+    company: XOVA EV-Charging (Remote, USA)
+    details: |
+      Designed social media and branding visuals for EV charging products.
+        - Created weekly digital content for Instagram, LinkedIn, and Facebook
+        - Developed product-focused marketing graphics
+
+  - role: External Examiner
+    time: 2021 - 2022
+    company: Govt. College of Technology Kamalia, Pakistan
+    details: |
+      Evaluated practical examinations for DAE IT students.
+        - Assessed technical skills and project execution
+        - Ensured fairness and academic standards
 
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
+  - name: Foundation of Generative AI
+    start: 2025
     end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
+    organization: Udacity
+    credentialid:
+    credentialurl: https://www.udacity.com/certificate/e/ef3f6e34-b7bc-11ef-a6ee-17fda750cd15
+    credentialname: Udacity
     details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      Certification covering fundamentals of generative modeling and applied AI concepts.
+
+  - name: Machine Learning with Python
+    start: 2023
+    end:
+    organization: IBM (Coursera)
+    credentialid:
+    credentialurl: https://www.coursera.org/account/accomplishments/verify/PWJSBCA7QUMD
+    credentialname: Coursera
+    details: |
+      Training in supervised and unsupervised learning, model development, and Python data workflows.
+
+  - name: Amazon Virtual Assistant
+    start: 2023
+    end:
+    organization: Govt. College of Technology Kamalia
+    credentialid:
+    credentialurl:
+    credentialname:
+    details: |
+      Training in Amazon Seller Central, product management, and listing optimization.
+
+  - name: Microsoft Office Specialist
+    start: 2017
+    end:
+    organization: Microsoft Certiport
+    credentialid:
+    credentialurl: https://www.credly.com/badges/b67ec483-fc09-4b1b-bd4a-236499b9c291/public_url
+    credentialname: Microsoft
+    details: |
+      Certified expertise in Microsoft Office applications.
+
+  - name: Computer Certified Applications
+    start:
+    end:
+    organization: Space Computer College Kamalia
+    credentialid:
+    credentialurl:
+    credentialname:
+    details: |
+      Training in computer applications, operating systems, and IT fundamentals.
 
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    A selection of academic and applied AI projects.
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-  - title: DevStudio
+  - title: ESR-LEFuse
     link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    tagline: "Hybrid Infrared and Visible Image Fusion and Super Resolution Model."
 
-  - title: Tempo
+  - title: Attention-Enhanced MRI Analysis
     link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    tagline: "Deep learning model for accurate brain tumor MRI classification."
 
-  - title: Atom
+  - title: YOLO Age Prediction System
     link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    tagline: "Facial recognition and age estimation using YOLO and deep learning."
 
-  - title: Delta
+  - title: Surveillance Robot (DAE Project)
     link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    tagline: "Arduino-based controllable surveillance robot with IP Camera."
+
+  - title: Graphic Designing Portfolio
+    link: "#"
+    tagline: "Branding and social media content for global tech startups."
 
 oss:
   title: OSS Contributions
   intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Contributions include open datasets, code improvements, and reproducible AI research.
   contributions:
-  - title: Tempo
+  - title: Image Fusion Research Code
     link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    tagline: "Code contributions for infrared-visible fusion models."
 
-  - title: Atom
+  - title: YOLO-Based Age Prediction
     link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    tagline: "Model training workflows for facial recognition research."
 
-  - title: Delta
+  - title: Python Utilities for Automation
     link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    tagline: "Scripts for automating data processing and image pipelines."
 
 publications:
   title: Publications
   intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
+    Peer-reviewed research published or accepted in IEEE Xplore.
   papers:
-  - title: The Art of Computer Programming
+  - title: "ESR-LEFuse: Hybrid Infrared and Visible Image Fusion and Super Resolution for Low Light Imaging"
     link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+    authors: Anees Khalil, J. Qi, Y. Huang, A. Muhammad, S. Rokib
+    conference: 17th International Conference on Signal Processing Systems (ICSPS), IEEE Xplore, 2025
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+  - title: "Attention-Enhanced Hybrid Deep Learning Framework for Accurate Brain Tumor MRI Analysis"
     link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+    authors: A. Muhammad, J. Qi, Anees Khalil, SMSH Rokib
+    conference: Signal Processing in Biomedical Engineering | ICSPS | IEEE Xplore
 
 recommendations:
   title: Recommendations
@@ -251,36 +254,36 @@ recommendations:
     role: General Director at example.com
     recommendation: |
       Alan Doe is a super employee!
+
   - person: Lara Henderson
     email: larah@example.com
     phone: 012 345 6789
     role: General Director at example.com
     recommendation: |
       I would like to work with Alan Doe again!
-
       He is a great employee!
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
+  - name: Python (Jupyter, Google Colab, VSCode, PyCharm)
     level: 98%
 
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
+  - name: Machine Learning & Deep Learning
     level: 95%
 
-  - name: Ruby on Rails
+  - name: Computer Vision (YOLO, CNN)
+    level: 95%
+
+  - name: MATLAB
+    level: 80%
+
+  - name: Web & eCommerce Tools (Magento, BigCommerce, WordPress)
     level: 85%
 
-  - name: Sketch & Photoshop
-    level: 60%
+  - name: Graphic Design (Adobe Suite)
+    level: 70%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
